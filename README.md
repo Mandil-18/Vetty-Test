@@ -61,10 +61,4 @@ To view lines 10 to 20 of file2.txt:
 http://127.0.0.1:5000/read_file/file2.txt?start=10&end=20
 
 
-![image](https://github.com/Mandil-18/flask-file-renderer/assets/88775131/d0b616e9-d937-4fcd-9244-e14de04e3a5b)
 
-
-
-![image](https://github.com/Mandil-18/flask-file-renderer/assets/88775131/05fd432e-1a8b-4b88-9c35-3f65b24ae727)
-![image](https://github.com/Mandil-18/flask-file-renderer/assets/88775131/45df6001-7548-49e2-a88e-d782a69344e6)
-![image](https://github.com/Mandil-18/flask-file-renderer/assets/88775131/5b1a972a-82e6-4685-b8cb-3ecfc8ec7105)
